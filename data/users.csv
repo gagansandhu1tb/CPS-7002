@@ -1,0 +1,4 @@
+id,username,password,full_name,email,role,status
+1,admin,1234,Admin User,admin@test.com,admin,active
+ade6ad34-9505-4f4a-aa5c-bc826fa57436,hello,12345,hello,hello@gmail.com,visitor,active
+3be1a421-8e8a-432f-a5f0-3d4c4346bd71,gagan,123,gagandeep,gagan@gmail.com,student,active
